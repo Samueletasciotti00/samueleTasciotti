@@ -1,0 +1,90 @@
+body{
+    background-image: url(MaterialeEsercizioLim/background.jpg);
+    background-size: 100%;    
+}
+
+.trasparenza{
+    background-color: rgba(0,0,0,0.5);
+    position: relative;
+    width: 60%;
+    height: 50%;
+    left: 20%;
+    right: 20%;
+    padding-bottom: 2%;
+    padding-top: 0.1%;
+    border-radius: 15px;
+}
+
+    
+
+.logo{
+    width: 200px;
+    display: block;
+    margin: auto;
+    margin-top: 10%;
+       
+}
+
+.title{
+    color: #00ff00;
+    display: block;
+    text-align: center;
+}
+
+.buttons{
+    text-align: center;
+    background-color: lime;
+    margin-left: 12%;
+    margin-right: 12%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 20px;    
+}
+
+.cariche{
+    margin-left: 12%;
+    color: white;
+}
+    
+.Monopattino{
+    font-size: 25px;
+    
+}
+
+.barra{
+    display: inline-block;
+    padding: 300px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 70px;
+    padding-right: 200px;
+    border-radius: 5px;
+    background-color: orange;
+}
+
+.barra2{
+    display: inline-block;
+    padding: 300px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 400px;
+    padding-right: 200px;
+    border-radius: 5px;
+    background-color: green;
+}
+
+.barra3{
+    display: inline-block;
+    padding: 300px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 1px;
+    padding-right: 200px;
+    border-radius:  5px;
+    background-color: red;
+}
+
+#copyright{
+    text-align: center;
+    padding-bottom: 1%;
+}

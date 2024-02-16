@@ -1,0 +1,8 @@
+width: 1000px;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 200px; 
+    color:#000;
+    background-color: black;
+    filter: opacity(0.5);
+    padding: 10px;
